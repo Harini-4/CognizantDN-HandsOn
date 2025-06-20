@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+H:\Cognizant\Cognizant_Hands_On\.metadata\.plugins\org.eclipse.jdt.core
-4010416246.index
-1865797976.index
-2612088385.index
